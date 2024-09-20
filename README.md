@@ -6,3 +6,4 @@ idea输入分号自动格式化当行：file+settings+keymap+complete current st
 如何查询工资明细：发薪日当天18:00后 2. 电话：拨打0755-28560169，选择语言后按“1”工资自助语音查询，可查询最近4个月工资明细。    
 https://liaoxuefeng.com/books/java/springboot/first-webapp/index.html    
 https://start.aliyun.com/或者springInitializer    
+不要害怕变迁 不要担心没发生的事 永远不要美化没有选择的路    
