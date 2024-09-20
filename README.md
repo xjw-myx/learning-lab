@@ -7,3 +7,5 @@ idea输入分号自动格式化当行：file+settings+keymap+complete current st
 https://liaoxuefeng.com/books/java/springboot/first-webapp/index.html    
 https://start.aliyun.com/或者springInitializer    
 不要害怕变迁 不要担心没发生的事 永远不要美化没有选择的路    
+根据分配到的 “算  力  场  景  运  维-E  d g e昇 腾 软 件 栈 C A N N 日 志 异 常 分 析 - 日 志 分析 报 告 生成导 出”进行US设计    
+完成需求单 的编码开发任务 参与一次完整的迭代转测    
